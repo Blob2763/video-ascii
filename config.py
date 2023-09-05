@@ -11,6 +11,6 @@ CHARS = "@%#*+= "
 
 FONT = "C:/font/path/here"  # path of the font you want to use, mono fonts work best
 
-SCALE = 1  # how many pixels wide each character represents  - use 1 for a small video but use 16+ for a bigger video. dont make this number too big otherwise the code will take forever
+SCALE = 1  # how many pixels wide each character represents  - use 1 for a small video but use 16+ for a bigger video. dont make this number too small otherwise the code will take forever
 
 FONT_SIZE = 16  # the size of the font in pixels - i recommend 16 but feel free to mess around with it
