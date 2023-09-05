@@ -4,6 +4,7 @@ turns a video into a video of ascii art
 # how to use
 if you want to use this:
 - download the files and save them somewhere
+- copy the video you want to convert and put it in the same folder as the code
 - fill in the values in config.py
 - install the libraries (`pip install Pillow`, `pip install cv2`)
 - run main.py
